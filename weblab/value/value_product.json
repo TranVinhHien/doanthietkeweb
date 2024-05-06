@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Bông Tẩy Trang Bella - 500 miếng",
+      "price": 220000,
+      "createFrom": "Italy",
+      "details": "Bông tẩy trang Bella là sản phẩm chăm sóc da với công thức đặc biệt giúp làm sạch và dưỡng ẩm da. Sản phẩm gồm 500 miếng bông tẩy trang, thích hợp cho mọi loại da.",
+      "image": ["Bông Tẩy Trang Bella - 500 miếng.jpg", "Bông Tẩy Trang Bella - 500 miếng1.jpg", "Bông Tẩy Trang Bella - 500 miếng2.jpg", "Bông Tẩy Trang Bella - 500 miếng3.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Bông Tẩy Trang JOMI",
+      "price": 150000,
+      "createFrom": "Germany",
+      "details": "Bông tẩy trang JOMI là sản phẩm được sản xuất tại Đức, giúp làm sạch và làm mềm da. Sản phẩm thích hợp sử dụng cho mọi loại da.",
+      "image": ["Bông Tẩy Trang JOMI.jpg", "Bông Tẩy Trang JOMI1.jpg", "Bông Tẩy Trang JOMI2.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Bông tẩy trang MAXI 50 miếng 2 trong 1 COTONEVE (hồng)",
+      "price": 98000,
+      "createFrom": "France",
+      "details": "Bông tẩy trang MAXI của COTONEVE là sản phẩm đặc biệt có chứa thành phần làm dịu da và làm sạch hiệu quả. Sản phẩm có 50 miếng, thích hợp cho làn da nhạy cảm.",
+      "image": ["Bông tẩy trang MAXI 50 miếng 2 trong 1 COTONEVE (hồng).png", "Bông tẩy trang MAXI 50 miếng 2 trong 1 COTONEVE (hồng)1.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Mặt Nạ JMsolution Sáp Ong 30ml",
+      "price": 120000,
+      "createFrom": "South Korea",
+      "details": "Mặt nạ JMsolution Sáp Ong là sản phẩm dưỡng da chứa chiết xuất sáp ong giàu dưỡng chất. Giúp làm mềm và cấp ẩm cho làn da khô ráp.",
+      "image": ["Mặt Nạ JMsolution Sáp Ong 30ml.jpg", "Mặt Nạ JMsolution Sáp Ong 30ml1.jpg", "Mặt Nạ JMsolution Sáp Ong 30ml2.jpg", "Mặt Nạ JMsolution Sáp Ong 30ml3.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Mặt Nạ JMsolution Tinh Chất Hoa Hồng 30ml",
+      "price": 135000,
+      "createFrom": "South Korea",
+      "details": "Mặt nạ JMsolution Tinh Chất Hoa Hồng là sản phẩm dưỡng da chứa tinh chất hoa hồng giúp làm sáng và tái tạo da. Sản phẩm phù hợp cho làn da khô và thiếu sức sống.",
+      "image": ["Mặt Nạ JMsolution Tinh Chất Hoa Hồng 30ml.jpg", "Mặt Nạ JMsolution Tinh Chất Hoa Hồng 30ml1.jpg", "Mặt Nạ JMsolution Tinh Chất Hoa Hồng 30ml3.jpg", "Mặt Nạ JMsolution Tinh Chất Hoa Hồng 30ml4.jpg"]
+    },
+    {
+      "id": 6,
+      "name": "Mặt Nạ Sur.Medic Aqua 30g",
+      "price": 99000,
+      "createFrom": "Japan",
+      "details": "Mặt nạ Sur.Medic Aqua là sản phẩm dưỡng ẩm sâu cho làn da, giúp làm mềm và làm dịu da khô và căng thẳng.",
+      "image": ["Mặt Nạ Sur.Medic Aqua 30g.jpg", "Mặt Nạ Sur.Medic Aqua 30g1.jpg", "Mặt Nạ Sur.Medic Aqua 30g2.jpg"]
+    },
+    {
+      "id": 7,
+      "name": "Nước Hoa Gucci Bloom Acqua di Fiori 50ml",
+      "price": 950000,
+      "createFrom": "France",
+      "details": "Nước hoa Gucci Bloom Acqua di Fiori là một hương thơm tươi sáng và nữ tính, mang lại cảm giác rạng rỡ của hoa tươi.",
+      "image": ["Nước Hoa Gucci Bloom Acqua di Fiori 50ml.jpg", "Nước Hoa Gucci Bloom Acqua di Fiori 50ml2.jpg"]
+    },
+    {
+      "id": 8,
+      "name": "Nước Hoa Marc Jacobs Daisy Love EDT 100ml",
+      "price": 2800000,
+      "createFrom": "USA",
+      "details": "Nước hoa Marc Jacobs Daisy Love EDT là một hương thơm tinh tế và quyến rũ, thích hợp cho những buổi dạo phố và hẹn hò.",
+      "image": ["Nước Hoa Marc Jacobs Daisy Love EDT 100ml.jpg", "Nước Hoa Marc Jacobs Daisy Love EDT 100ml1.jpg", "Nước Hoa Marc Jacobs Daisy Love EDT 100ml2.jpg", "Nước Hoa Marc Jacobs Daisy Love EDT 100ml4.jpg", "Nước Hoa Marc Jacobs Daisy Love EDT 100ml5.jpg", "Nước Hoa Marc Jacobs Daisy Love EDT 100ml6.jpg"]
+      },
+      {
+      "id": 9,
+      "name": "Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow",
+      "price": 185000,
+      "createFrom": "South Korea",
+      "details": "Phấn mắt Karadium Bling Fit Bijou Box Shadow là sản phẩm trang điểm mắt đa năng, chứa các màu sắc thời thượng và dễ phối hợp.",
+      "image": ["Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow.png", "Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow1.jpg", "Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow2.jpg", "Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow3.jpg", "Phấn Mắt Karadium 4 ô Bling Fit Bijou Box Shadow4.jpg"]
+      },
+      {
+      "id": 10,
+      "name": "Son Kem Bobbi Brown Crushed Liquid Lip - Haute Cocoa",
+      "price": 360000,
+      "createFrom": "USA",
+      "details": "Son kem Bobbi Brown Crushed Liquid Lip là dòng son lì có độ bóng cao, giúp làm mềm và dưỡng ẩm cho đôi môi.",
+      "image": ["Son Kem Bobbi Brown Crushed Liquid Lip - Haute Cocoa.jpg", "Son Kem Bobbi Brown Crushed Liquid Lip - Haute Cocoa1.jpg", "Son Kem Bobbi Brown Crushed Liquid Lip - Haute Cocoa2.jpg", "Son Kem Bobbi Brown Crushed Liquid Lip - Haute Cocoa3.jpg"]
+      },
+      {
+      "id": 11,
+      "name": "Son kem Romand Milk Tea Velvet Tint",
+      "price": 175000,
+      "createFrom": "South Korea",
+      "details": "Son kem Romand Milk Tea Velvet Tint là dòng son lì mềm mượt, mang lại sắc màu tự nhiên và bền màu suốt cả ngày dài.",
+      "image": ["Son kem Romand Milk Tea Velvet Tint.jpg", "Son kem Romand Milk Tea Velvet Tint1.jpg", "Son kem Romand Milk Tea Velvet Tint2.jpg", "Son kem Romand Milk Tea Velvet Tint3.jpg"]
+      },
+      {
+      "id": 12,
+      "name": "xit thom body ",
+      "price": 120000,
+      "createFrom": "Australia",
+      "details": "Xịt thơm Body là sản phẩm dưỡng thể có hương thơm dịu nhẹ, giúp cơ thể thư giãn và thơm tho suốt cả ngày.",
+      "image": ["xitthombody1.jpg", "xitthombody2.jpg", "xitthombody3.jpg", "xitthombody4.jpg"]
+      }
+      ]
+  
